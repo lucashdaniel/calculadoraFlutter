@@ -1,6 +1,7 @@
 # calculadora
 
-A new Flutter project.
+A new Flutter project.![calculator flutter](https://github.com/lucashdaniel/calculadoraFlutter/assets/52480096/86542942-69fd-4f0c-bac6-59ab055a8ba4)
+
 
 ## Getting Started
 
